@@ -14,6 +14,7 @@ Here is what the `.odt` files are for:
 * **eselect-repository.odt:** Used for selecting repositories from repo X or repo Y.
 * **Block.odt:** Blocked packages.
 * **examples.odt:** Emerge syntax examples:
+* **OpenRC-guide-for-beginners.odt:** OpenRC guide for beginners, it's a spanish ver
 
 The project is currently in alpha, with plans to build a 
 custom distribution based on this for new users 
