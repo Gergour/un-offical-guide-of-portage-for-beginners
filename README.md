@@ -1,3 +1,4 @@
+#Gentoo
 This repository is in Spanish because it is my native language. In the future, I plan to make it available in both English and Spanish, so waiting a bit for the English version shouldn't be an issue.
 
 The guide is UNOFFICIAL, so consider it unofficial.
